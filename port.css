@@ -9,7 +9,8 @@
     width: 100%;
 }
 body{
-    background-color: black;
+    background-image: url(/home/moringa/Documents/back.png);
+    background-size: cover;
 }
 nav{
     display: flex;
@@ -37,7 +38,7 @@ nav ul li a{
 }
 nav ul li a:hover{
     color: brown;
-    transition: 4s;
+    transition: 0.5s;
 }
 .content{
     position: absolute;
@@ -62,4 +63,38 @@ h4{
 }
 p{
     color: white;
+}
+.content h4{
+    color: white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.content h1{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+.back {
+    background-color: #fff;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+.fa-youtube {
+    background-color: #125688;
+    color: red;
 }
