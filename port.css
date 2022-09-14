@@ -87,14 +87,14 @@ p{
     text-decoration: none;
 }
 .fa-facebook {
-    background: #3B5998;
-    color: white;
+    background: black;
+    color: palevioletred;
 }
 .fa-instagram {
-    background: #125688;
-    color: white;
+    background: black;
+    color: palevioletred;
 }
 .fa-youtube {
-    background-color: #125688;
-    color: red;
+    background-color: black;
+    color: palevioletred;
 }
