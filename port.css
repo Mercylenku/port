@@ -9,7 +9,7 @@
     width: 100%;
 }
 body{
-    background-image: url(/home/moringa/Documents/back.png);
+    background-image: url(back.png);
     background-size: cover;
 }
 nav{
